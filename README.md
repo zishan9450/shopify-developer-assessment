@@ -2,6 +2,8 @@
 
 This project is a fully functional, interactive, and responsive Shopify product page, designed for a modern e-commerce experience. The page allows customers to choose between single or double product subscriptions and select their preferred flavors dynamically.
 
+![Project Preview](./assets/project-preview.jpg)
+
 ---
 
 ## Live Demo
