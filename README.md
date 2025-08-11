@@ -8,8 +8,8 @@
 
 ## Live Demo
 
-* **Live Store URL:** `[Your Live Store Product Page URL]`
-* [cite_start]**Password:** `[Your Storefront Password]` [cite: 53]
+* **Live Store URL:** `https://verve12.myshopify.com/products/premium-drink-subscription`
+* [cite_start]**Password:** `meegli` [cite: 53]
 
 ---
 
